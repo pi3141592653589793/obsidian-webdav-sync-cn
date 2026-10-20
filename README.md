@@ -108,7 +108,7 @@
 | 平台 | 状态 |
 |---|---|
 | Windows / macOS / Linux | ✅ 预期可用（`requestUrl` + 纯 JS） |
-| Android | ✅ 已在荣耀平板（Android 14 / Obsidian 1.9）加载并配置 |
+| Android | ✅ 已在 Android 14 / Obsidian 1.9 真机上加载并配置 |
 | iOS / iPadOS | ⚠️ 预期可用，未验证 |
 
 ---
